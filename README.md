@@ -1,93 +1,263 @@
-Sickle Cell Disease & Healthcare System Navigation – Qualitative IRB Study
-Researcher: Ashima Singh, MPH | Research Assistant  
-Affiliation: Sylvester Comprehensive Cancer Center – University of Miami  
-IRB Status: Created, Submitted & Approved – University of Miami Institutional Review Board  
-Timeline: January – July 2025  
-Tools: NVivo · IRB Protocol Development · Informed Consent Design · Participant Recruitment · In-Person Qualitative Interviews
+# Sickle Cell Disease & Healthcare System Navigation: A Qualitative Study
+
+**Keywords:** Qualitative Research | Health Disparities | Sickle Cell Disease | Healthcare Access | Patient Experience | Health Policy | NVivo | Thematic Analysis | Human Subjects Research
+
+**Researcher:** Ashima Singh, MPH
+
+**Role:** Research Assistant
+
+**Affiliation:** Sylvester Comprehensive Cancer Center, University of Miami
+
+**IRB Status:** Created, Submitted & Approved – University of Miami Institutional Review Board
+
+**Timeline:** January – July 2025
+
+**Tools:** NVivo · IRB Protocol Development · Participant Recruitment · Informed Consent Design · Qualitative Interviews
+
 ---
-📌 Project Overview
-This IRB-approved qualitative study examined how individuals living with Sickle Cell Disease (SCD) navigate changes and challenges within the healthcare system. Through in-person structured interviews, the study explored participants' experiences with healthcare access, provider relationships, insurance and coverage barriers, and how healthcare system changes — including policy shifts, transitions in care, and coverage disruptions — affected their disease management and quality of life.
-As the research assistant on this project, responsibilities spanned the full research lifecycle: drafting and submitting the IRB protocol, creating informed consent documents and recruitment flyers, actively recruiting participants, and conducting in-person interviews.
+
+## Research Workflow
+
+```text
+Research Question Development
+       ↓
+IRB Protocol Development
+       ↓
+Participant Recruitment
+       ↓
+Informed Consent
+       ↓
+Semi-Structured Interviews
+       ↓
+Transcription
+       ↓
+NVivo Coding
+       ↓
+Thematic Analysis
+       ↓
+Policy & Practice Recommendations
+```
+
 ---
-🎯 Research Objectives
-Understand how SCD patients experience and adapt to changes in their healthcare coverage and access
-Identify key barriers and facilitators to consistent, quality care within a shifting healthcare landscape
-Explore patient-provider relationship dynamics and how transitions in care affect disease management
-Document the emotional and practical burden of navigating insurance, referrals, and specialist access
-Identify gaps in care continuity and generate recommendations for system-level improvements
+
+## 📌 Project Overview
+
+This IRB-approved qualitative study explored how individuals living with Sickle Cell Disease (SCD) navigate healthcare system changes, insurance disruptions, provider transitions, and barriers to specialty care.
+
+Through semi-structured interviews, participants described the practical and emotional challenges associated with maintaining continuity of care while managing a chronic illness. The study aimed to identify systemic barriers affecting healthcare access and generate patient-informed recommendations for improving care delivery.
+
+As a research assistant, I contributed across the full research lifecycle, including protocol development, IRB submission, participant recruitment, informed consent design, interview administration, and qualitative data analysis.
+
 ---
+
+## 🛠 Technical Skills
+
+* Qualitative Research
+* NVivo
+* Thematic Analysis
+* Human Subjects Research
+* IRB Protocol Development
+* Participant Recruitment
+* Informed Consent Design
+* Semi-Structured Interviews
+* Healthcare Access Research
+* Health Disparities Research
+* Scientific Writing
+* Research Ethics
+
 ---
-🏛️ IRB Protocol Development
-One of the primary contributions to this project was creating and submitting the full IRB protocol to the University of Miami Institutional Review Board. This included:
-Drafting the research protocol narrative including background, significance, objectives, and study design
-Completing the IRB application forms including risk/benefit assessment, vulnerable population considerations, and data security plan
-Writing the informed consent document in plain language (8th grade reading level) covering study purpose, procedures, risks, benefits, confidentiality, and voluntary participation
-Preparing the recruitment materials (flyers) for IRB approval prior to distribution
-Submitting all documents through the UM IRB electronic submission system
-Responding to IRB reviewer queries and obtaining full approval prior to recruitment
+
+## 🎯 Research Objectives
+
+* Understand how individuals with SCD experience healthcare system changes
+* Identify barriers and facilitators to continuous, high-quality care
+* Explore the impact of insurance and provider transitions on disease management
+* Examine emotional and practical burdens associated with healthcare navigation
+* Generate recommendations for healthcare system improvement
+
 ---
-📣 Recruitment
-Participants were recruited through in-person and community-based methods:
-Recruitment flyers posted in clinic waiting rooms, patient support areas, and community health centers — approved by IRB prior to distribution
-Direct outreach through SCD patient advocacy contacts and community health worker referrals
-Flyer design included: study title, brief description, eligibility criteria, confidentiality statement, and researcher contact information
-All interested participants were screened for eligibility by phone or in-person before enrollment
-Inclusion Criteria
-Adult (≥18 years) with confirmed SCD diagnosis
-Experienced a change in healthcare coverage, provider, or access in the prior 24 months
-Able to provide informed consent and participate in an in-person interview in English
+
+## 👩‍🔬 My Role
+
+As the primary research assistant, I was responsible for:
+
+* Drafting and submitting the IRB protocol
+* Developing informed consent materials
+* Designing participant recruitment flyers
+* Coordinating participant recruitment and eligibility screening
+* Conducting in-person semi-structured interviews
+* Managing transcription and data organization
+* Performing qualitative coding and thematic analysis in NVivo
+* Contributing to interpretation and reporting of findings
+
 ---
-📋 Informed Consent Process
-Consent forms reviewed with each participant in person prior to the interview
-Participants given time to read, ask questions, and decide without pressure
-Signed consent documented and stored securely per IRB-approved data management plan
-Participants informed of their right to withdraw at any time without consequence
-Copies of the signed consent form provided to each participant
+
+## 🌎 Public Health Competencies
+
+* Health Disparities Research
+* Healthcare Access Assessment
+* Community-Based Research
+* Human Subjects Protection
+* Qualitative Data Analysis
+* Patient-Centered Outcomes Research
+* Program Evaluation
+* Scientific Communication
+* Research Ethics
+* Policy Translation
+
 ---
-🎙️ In-Person Interviews
-16 semi-structured interviews conducted in private rooms at Sylvester CCC
-Average interview duration: 45–60 minutes
-All interviews audio-recorded with participant consent and transcribed verbatim
-Interview guide covered: healthcare access changes, insurance navigation, provider transitions, emotional burden, and recommendations for system improvement
-Recordings deleted following verified transcription per IRB data management requirements
+
+## 📂 Files in This Repository
+
+| File                       | Description                     |
+| -------------------------- | ------------------------------- |
+| `qualitative_codebook.csv` | NVivo coding framework          |
+| `README.md`                | Project documentation           |
+
+> Interview transcripts and participant data are not publicly available due to IRB restrictions and confidentiality requirements.
+
 ---
-📊 Analysis – NVivo Thematic Analysis
-Thematic analysis conducted in NVivo following the Braun & Clarke (2006) six-phase framework:
-Phase	Activity
-1. Familiarization	Transcript review and initial memo-writing
-2. Open Coding	Line-by-line coding applied to all 16 transcripts in NVivo
-3. Theme Generation	Codes grouped into candidate themes
-4. Theme Review	Iterative refinement against full dataset
-5. Theme Definition	Final naming, description, and bounding of each theme
-6. Reporting	Themes integrated with representative participant data
-Full codebook available in `codebook/qualitative_codebook.csv`
+
+## 🏛️ IRB Protocol Development
+
+A major component of this project involved preparing and submitting materials for Institutional Review Board approval.
+
+Activities included:
+
+* Developing the study protocol and research design
+* Completing risk-benefit and confidentiality assessments
+* Creating informed consent documents
+* Designing participant recruitment materials
+* Preparing data security and management plans
+* Responding to IRB reviewer feedback
+* Obtaining full approval prior to recruitment
+
 ---
-🔍 Thematic Structure
-Seven major themes identified across 16 interviews:
-#	Theme	Core Focus
-T01	Insurance and Coverage Disruptions	Loss of coverage, denial of care, prior authorization burden
-T02	Care Continuity and Provider Transitions	Impact of losing established providers; rebuilding trust
-T03	Emergency Department as Primary Care	Reliance on ED due to lack of specialist access
-T04	Navigating Specialist Referrals	Delays, denials, and self-advocacy in obtaining specialist care
-T05	Emotional Burden of System Navigation	Frustration, exhaustion, and helplessness in dealing with system barriers
-T06	Self-Advocacy and Resilience Strategies	Strategies used to navigate and overcome system barriers
-T07	Recommendations for System Improvement	Patient-generated recommendations for policy and practice changes
+
+## 📣 Participant Recruitment
+
+Participants were recruited through community-based and clinic-supported outreach efforts.
+
+Recruitment methods included:
+
+* IRB-approved flyers in clinics and community health centers
+* Outreach through SCD advocacy organizations
+* Community health worker referrals
+* Eligibility screening conducted by phone and in person
+
+### Inclusion Criteria
+
+* Age ≥ 18 years
+* Confirmed Sickle Cell Disease diagnosis
+* Experienced healthcare coverage, provider, or access changes within the prior 24 months
+* English-speaking
+* Able to provide informed consent
+
 ---
-💡 Key Findings and Implications
-Insurance disruptions were the most commonly reported barrier, with participants describing gaps in coverage leading directly to delayed or forgone care
-Loss of an established hematologist was described as a major setback, with patients expressing deep distress over rebuilding trust with new providers unfamiliar with their history
-Emergency department overreliance was a recurring theme among participants without consistent specialist access — highlighting systemic gaps in SCD specialty care infrastructure
-Prior authorization burdens for pain medications and hydroxyurea were described as time-consuming, demeaning, and clinically dangerous when denials caused treatment interruptions
-Participants offered concrete system-level recommendations including dedicated SCD care coordinators, streamlined prior authorization for established treatments, and improved transitions-of-care protocols
+
+## 📋 Informed Consent Process
+
+* Consent reviewed individually with each participant
+* Questions addressed before enrollment
+* Participation was voluntary and could be withdrawn at any time
+* Signed consent forms stored securely
+* Participants received copies of consent documents
+
 ---
-🔒 Ethical Considerations
-IRB Created, Submitted & Approved – University of Miami IRB
-Written informed consent obtained in person from all participants
-Interviews conducted in private settings; recordings deleted post-transcription
-All data de-identified; pseudonyms used throughout analysis
-Conducted in compliance with 45 CFR Part 46, HIPAA Privacy Rule, and Sylvester CCC research governance policies
+
+## 🎙️ Qualitative Interviews
+
+* 16 semi-structured interviews completed
+* Interview duration: approximately 45–60 minutes
+* Audio-recorded with participant permission
+* Professionally transcribed and verified
+* Conducted in private settings to protect confidentiality
+
+Interview topics included:
+
+* Healthcare access changes
+* Insurance navigation
+* Provider transitions
+* Care continuity
+* Emotional burden of system navigation
+* Recommendations for healthcare improvement
+
 ---
-📫 Contact
-Ashima Singh, MPH  
-📧 ashsingh2202@gmail.com  
+
+## 📊 Data Analysis
+
+Qualitative analysis was conducted in NVivo using the Braun & Clarke six-phase thematic analysis framework.
+
+| Phase             | Activity                                   |
+| ----------------- | ------------------------------------------ |
+| Familiarization   | Transcript review and memo-writing         |
+| Open Coding       | Line-by-line coding                        |
+| Theme Development | Grouping codes into candidate themes       |
+| Theme Review      | Refinement and validation                  |
+| Theme Definition  | Naming and describing themes               |
+| Reporting         | Integration of findings into study outputs |
+
+---
+
+## 🔍 Major Themes Identified
+
+| Theme                                  | Focus Area                                                          |
+| -------------------------------------- | ------------------------------------------------------------------- |
+| Insurance & Coverage Disruptions       | Coverage loss, denials, prior authorization barriers                |
+| Care Continuity & Provider Transitions | Loss of established providers and trust rebuilding                  |
+| Emergency Department Reliance          | Use of ED services due to limited specialty care access             |
+| Specialist Referral Navigation         | Delays, denials, and self-advocacy                                  |
+| Emotional Burden                       | Stress, frustration, and exhaustion associated with system barriers |
+| Resilience Strategies                  | Patient coping and self-advocacy approaches                         |
+| System Improvement Recommendations     | Patient-generated solutions for healthcare delivery                 |
+
+---
+
+## 📈 Project Impact
+
+* Conducted an IRB-approved qualitative investigation of healthcare access challenges among individuals living with SCD.
+* Identified recurring barriers related to insurance coverage and continuity of care.
+* Documented patient experiences with specialist access and treatment disruptions.
+* Generated patient-informed recommendations for healthcare system improvement.
+* Contributed evidence supporting more equitable and coordinated care models.
+
+---
+
+## 🔄 Research Translation
+
+Findings from this study highlight opportunities to improve continuity of care, reduce administrative barriers, and strengthen support systems for individuals living with Sickle Cell Disease. Patient-generated recommendations may inform future clinical practice, care coordination programs, and health policy initiatives.
+
+---
+
+## 💡 Public Health Implications
+
+These findings support:
+
+* Improved care coordination for individuals with SCD
+* Streamlined prior authorization processes
+* Enhanced transition-of-care planning
+* Expansion of specialty care access
+* Patient-centered healthcare policy development
+
+---
+
+## 🔒 Ethical Considerations
+
+* University of Miami IRB Approved
+* Written informed consent obtained from all participants
+* Interviews conducted in private settings
+* Audio recordings deleted following verified transcription
+* Data de-identified prior to analysis
+* Conducted in compliance with HIPAA and 45 CFR Part 46
+
+No participant-identifying information is included in this repository.
+
+---
+
+## 📫 Contact
+
+**Ashima Singh, MPH**
+
+📧 [ashsingh2202@gmail.com](mailto:ashsingh2202@gmail.com)
+
 🔗 linkedin.com/in/ashimasingh-mph
