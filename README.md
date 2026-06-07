@@ -260,4 +260,4 @@ No participant-identifying information is included in this repository.
 
 📧 [ashsingh2202@gmail.com](mailto:ashsingh2202@gmail.com)
 
-🔗 linkedin.com/in/ashimasingh-mph
+💼 [LinkedIn](https://www.linkedin.com/in/ashimasingh-mph/)
